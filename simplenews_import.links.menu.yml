@@ -1,0 +1,7 @@
+simplenews_import.import_form:
+  title: 'Subscriber import'
+  route_name: simplenews_import.import_form
+  description: 'Import email addresses into the newsletter subscribers'
+  parent: user.admin_index
+  weight: 99
+

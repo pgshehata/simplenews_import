@@ -1,0 +1,7 @@
+name: simplenews_import
+type: module
+description: You can quickly and easily import a CSV spreadsheet mails contacts to simplenews subscribers module.
+core: 8.x
+package: Mail
+dependencies:
+  - simplenews
